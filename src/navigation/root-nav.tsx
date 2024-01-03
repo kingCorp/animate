@@ -10,7 +10,7 @@ function Navigation(){
         <NavigationContainer>
              <Stack.Navigator
           screenOptions={{
-            headerShown: false,
+            // headerShown: false,
           }}
         >
             <Stack.Screen component={AnimationsList} name={NAV_ROUTES.AnimationsList} />
