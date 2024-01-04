@@ -1,4 +1,5 @@
 export const NAV_ROUTES = {
     AnimationsList: 'AnimationsList',
-    DynamicScrollList: 'DynamicScrollList'
+    DynamicScrollList: 'DynamicScrollList',
+    PhoneRingIndicator: 'PhoneRingIndicator',
 }
